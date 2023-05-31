@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\LearningProject\LearningProject\bin\Debug\net6.0\LearningProject.exe
+C:\Users\User\source\repos\LearningProject\LearningProject\bin\Debug\net6.0\LearningProject.deps.json
+C:\Users\User\source\repos\LearningProject\LearningProject\bin\Debug\net6.0\LearningProject.runtimeconfig.json
+C:\Users\User\source\repos\LearningProject\LearningProject\bin\Debug\net6.0\LearningProject.dll
+C:\Users\User\source\repos\LearningProject\LearningProject\bin\Debug\net6.0\LearningProject.pdb
+C:\Users\User\source\repos\LearningProject\LearningProject\obj\Debug\net6.0\LearningProject.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\LearningProject\LearningProject\obj\Debug\net6.0\LearningProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\LearningProject\LearningProject\obj\Debug\net6.0\LearningProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LearningProject\LearningProject\obj\Debug\net6.0\LearningProject.AssemblyInfo.cs
+C:\Users\User\source\repos\LearningProject\LearningProject\obj\Debug\net6.0\LearningProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LearningProject\LearningProject\obj\Debug\net6.0\LearningProject.dll
+C:\Users\User\source\repos\LearningProject\LearningProject\obj\Debug\net6.0\refint\LearningProject.dll
+C:\Users\User\source\repos\LearningProject\LearningProject\obj\Debug\net6.0\LearningProject.pdb
+C:\Users\User\source\repos\LearningProject\LearningProject\obj\Debug\net6.0\LearningProject.genruntimeconfig.cache
+C:\Users\User\source\repos\LearningProject\LearningProject\obj\Debug\net6.0\ref\LearningProject.dll
